@@ -1,0 +1,2 @@
+include ':sample', ':router-annotatios', ':router-complie', ':router'
+rootProject.name = 'router-parent'

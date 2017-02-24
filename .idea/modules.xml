@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/router/router.iml" filepath="$PROJECT_DIR$/router/router.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router-annotatios/router-annotatios.iml" filepath="$PROJECT_DIR$/router-annotatios/router-annotatios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router-complie/router-complie.iml" filepath="$PROJECT_DIR$/router-complie/router-complie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router-parent.iml" filepath="$PROJECT_DIR$/router-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>
